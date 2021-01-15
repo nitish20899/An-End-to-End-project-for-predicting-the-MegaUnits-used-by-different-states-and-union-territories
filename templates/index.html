@@ -1,0 +1,77 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+    <h1 style="text-align: center">Predicting Load (MU) for different states in india</h1>
+
+    <div class="form">
+        <form action="/predict" method="POST">
+          <p>Select the name of the state you want to predict for<p>
+            <select name="State_name" id="State_name" class="selectBox" type='text'>
+              <option value="andhra pradesh">Andhra Pradesh</option>
+              <option value="arunachal pradesh">Arunachal Pradesh</option>
+              <option value="assam">Assam</option>
+              <option value="bihar">Bihar</option>
+              <option value="chandigarh">Chandigarh</option>
+              <option value="chhattisgarh">Chhattisgarh</option>
+              <option value="dd">Daman and Diu</option>
+              <option value="delhi">Delhi</option>
+              <option value="dnh">Dadra and Nagar Haveli</option>
+              <option value="dvc">Damodar Valley Corporation</option>
+              <option value="goa">Goa</option>
+              <option value="gujarat">Gujarat</option>
+              <option value="haryana">Haryana</option>
+              <option value="hp">Himachal Pradesh</option>
+              <option value="j&k">Jammu and Kashmir</option>
+              <option value="jharkhand">Jharkhand</option>
+              <option value="karnataka">Karnataka</option>
+              <option value="kerala">Kerala</option>
+              <option value="maharashtra">Maharashtra</option>
+              <option value="manipur">Manipur</option>
+              <option value="meghalaya">Meghalaya</option>
+              <option value="mizoram">Mizoram</option>
+              <option value="mp">Madhya Pradesh</option>
+              <option value="nagaland">Nagaland</option>
+              <option value="odisha">Odisha</option>
+              <option value="pondy">Pondy</option>
+              <option value="punjab">Punjab</option>
+              <option value="rajasthan">Rajasthan</option>
+              <option value="sikkim">Sikkim</option>
+              <option value="tamil nadu">Tamil Nadu</option>
+              <option value="telangana">Telangana</option>
+              <option value="tripura">Tripura</option>
+              <option value="up">Uttar Pradesh</option>
+              <option value="uttarakhand">Uttarakhand</option>
+              <option value="west bengal">West Bengal</option>
+          </select><br>
+       <p></p>
+          <p>Enter the date below (for which day you want to predict)</p>
+          <input type="number" name="Year" id="Year" placeholder="Year"/>
+            <input type="number" name="Month" id="Month" placeholder="Month"/>
+            <input type="number" name="Day" id="Day" placeholder="Day"/><br>
+ <br>
+            <input type="submit" value="Predict">
+        </form><br><br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p style="font-size:10px">Note: These predictions are approximate and real time predictions need regular monitoring and need to train with new data often. At present the univariant LSTM models which are used for prediction are trained from year 2015 to 14/11/2020. These models showed 95-97% accuracy on test data.</p>
+    </div>
+</div>
+{% endblock %}
+</html>
