@@ -3,6 +3,7 @@
 Please use the below link to see the project file (ipynb) in NBviewer for better view of visualizations
 * link of the notebook which contains the way i scrapped the data 
 * link of the notebook which contains End to End process
+* deployed link https://forecast-301814.df.r.appspot.com/
 
 
 
