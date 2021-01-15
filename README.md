@@ -168,6 +168,12 @@ I had successfully deployed my project through Google Cloud Platform. you can cl
 https://forecast-301814.df.r.appspot.com/
 
 Below are the screenshots of the website
+<p align= "center">
+   <img width= "800" height="400" src="https://user-images.githubusercontent.com/63724986/104751771-d6b96400-577b-11eb-9d7b-2cf885df45e8.jpg">
+</p> 
+<p align= "center">
+   <img width= "800" height="400" src="https://user-images.githubusercontent.com/63724986/104751775-d8832780-577b-11eb-9879-6b4b3fe3a8ce.jpg">
+</p> 
 
 
 
