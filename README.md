@@ -1,8 +1,10 @@
 # An End to End project for predicting the MegaUnits used by different states and union territories in India using univariante LSTM model. 
 
 Please use the below link to see the project file (ipynb) in NBviewer for better view of visualizations
-* link of the notebook which contains the way i scrapped the data 
+* link of the notebook which contains the way i scrapped the data https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predicting-the-Megaunits-used-by-different-states-and-union-territories/blob/master/scrapping_data_notebook.ipynb
+
 * link of the notebook which contains End to End process
+
 * deployed link https://forecast-301814.df.r.appspot.com/
 
 
