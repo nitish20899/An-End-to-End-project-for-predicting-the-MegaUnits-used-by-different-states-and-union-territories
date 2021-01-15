@@ -163,7 +163,7 @@ For task evaluation,I considered from 2013-01-07 to 2019-07-01 as Training Set, 
 
 
 I had successfully deployed my project through Google Cloud Platform. you can click the link below to see the deployed project
-
+https://forecast-301814.df.r.appspot.com/
 
 Below are the screenshots of the website
 
