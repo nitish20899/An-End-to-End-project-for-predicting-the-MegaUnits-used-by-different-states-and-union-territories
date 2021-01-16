@@ -1,9 +1,9 @@
 # An End to End project for predicting the MegaUnits used by different states and union territories in India using univariante LSTM model. 
 
-Please use the below link to see the project file (ipynb) if you face difficulty in loading the notebooks as the notebook size is 93mb.
+Please use the below link to see the project file (ipynb) if you face difficulty in loading the notebooks.
 
 * link of the notebook which contains End to End process (note: As this ipynb file is 93.5 mb I had created a pdf version of it .The link is below. original ipynb file is also available in my repository)
-https://drive.google.com/file/d/1JCOGHC7tDNSd1PJF8CoYvLqFvdDsOrcr/view?usp=sharing
+https://drive.google.com/file/d/1DtVHu28Q0dP53jYh6pkTcuHrBo4A-UXK/view?usp=sharing
 
 * link of the notebook which contains the way i scrapped the data https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predicting-the-Megaunits-used-by-different-states-and-union-territories/blob/master/scrapping_data_notebook.ipynb
 
