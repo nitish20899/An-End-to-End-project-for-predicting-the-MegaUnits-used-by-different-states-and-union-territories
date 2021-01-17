@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1GbaOPnRdgPTcGlChX4DHeoSeIhyKxBuL/view?usp=shari
 
 ## Introduction
 
-As a data science enthusiast, I was a type of person who likes applying knowledge on the real world data. While i was on search of a data, i came across a website (https://posoco.in/). Power System Operation Corporation Limited is a wholly owned Government of India enterprise under the Ministry of Power. 
+As a data science enthusiast, I was a type of person who likes applying knowledge on the real world data. While i was on search of a data, i came across a website https://posoco.in/. Power System Operation Corporation Limited is a wholly owned Government of India enterprise under the Ministry of Power. 
 
 It is responsible to ensure the integrated operation of the Grid in a reliable, efficient, and secure manner.This website uploads a PDF every week which contains the number of Mega units used by every state. 
 
@@ -44,7 +44,7 @@ The main aim of this end to end project is to scrap the data from multiple PDF a
 
 ## Dataset
 
-After scrapping, properly arranging and cleaning the data, the dataframe has 37 columns adn 2593 rows.
+After scrap ing, properly arranging and cleaning the data, the dataframe has 37 columns adn 2593 rows.
 
 All the column values are float except date column. Columns represent 29 states and 7 union teritories of india.
 
