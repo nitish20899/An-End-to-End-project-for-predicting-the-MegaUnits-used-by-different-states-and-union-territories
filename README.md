@@ -54,6 +54,7 @@ july ,the data before that is inaccurate, so considering from 2015 will give us 
 For other columns i am going to take the data from 2013.
 
 For task evaluation,I considered from 2013-01-07 to 2019-07-01 as Training Set, and Test Set is from 2019-07-02 to 2014-11-14. This is roughly a 80%/20% split.
+For training i took 48 datapoints as X_train and 49th one as y_train ( y label ) incrementally 
 
 
 
