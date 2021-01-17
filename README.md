@@ -1,4 +1,4 @@
-# An End to End project for predicting the MegaUnits used by different states and union territories in India using univariante LSTM model. 
+# End to End project for predicting the MegaUnits used by different states and union territories in India using univariante LSTM model. 
 
 Please use the below link to see the project file (ipynb) if you face difficulty in loading the notebooks.
 
