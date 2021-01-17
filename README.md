@@ -120,7 +120,7 @@ For task evaluation,I considered from 2013-01-07 to 2019-07-01 as Training Set, 
 ## Accuracy
 
 * 36 models were created for 36 states and union territories
-* Accuracy of each model is ranging between 86.3 on test data
+* Accuracy of each model is ranging between 86.3 to 98.5 on test data
 
 | States_models     |   Accuracy |
 |:------------------|-----------:|
