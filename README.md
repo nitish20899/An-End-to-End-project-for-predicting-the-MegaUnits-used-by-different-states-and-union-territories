@@ -1,4 +1,4 @@
-# End to End project for predicting the MegaUnits used by different states and union territories in India using univariante LSTM model. 
+# End to End project for predicting Electricity ( MegaUnits ) used by different states and union territories in India using univariante LSTM model. 
 
 Please use the below link to see the project file (ipynb) if you face difficulty in loading the notebooks.
 
@@ -44,7 +44,7 @@ The main aim of this end to end project is to scrap the data from multiple PDF a
 
 ## Dataset
 
-After scrap ing, properly arranging and cleaning the data, the dataframe has 37 columns adn 2593 rows.
+After scraping, properly arranging and cleaning the data, the dataframe has 37 columns adn 2593 rows.
 
 All the column values are float except date column. Columns represent 29 states and 7 union teritories of india.
 
