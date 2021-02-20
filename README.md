@@ -3,7 +3,7 @@
 Please use the below link to see the project file (ipynb) if you face difficulty in loading the notebooks.
 
 * link of the notebook which contains End to End process (note: As this ipynb file is 93.5 mb I had created a pdf version of it .The link is below. original ipynb file is also available in my repository)
-https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predicting-the-Megaunits-used-by-different-states-and-union-territories/blob/master/End_to_End_notebook.pdf
+https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predicting-the-Megaunits-used-by-different-states-and-union-territories/blob/master/End_to_End_notebook1.pdf
 
 * link of the notebook which contains the way i scrapped the data https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predicting-the-Megaunits-used-by-different-states-and-union-territories/blob/master/scrapping_data_notebook.ipynb
 
