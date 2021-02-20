@@ -7,7 +7,7 @@ https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predic
 
 * link of the notebook which contains the way i scrapped the data https://nbviewer.jupyter.org/github/nitish20899/An-End-to-End-project-for-predicting-the-Megaunits-used-by-different-states-and-union-territories/blob/master/scrapping_data_notebook.ipynb
 
-* deployed link https://forecast-301814.df.r.appspot.com/
+* deployed link https://forecast-1111.df.r.appspot.com/
 
 
 
